@@ -1,0 +1,31 @@
+﻿  Source.cpp
+E:\IT\Step\Class_Work\С++\String\String\MyString.h(38,8): error C2143: синтаксическая ошибка: отсутствие ";" перед "&"
+E:\IT\Step\Class_Work\С++\String\String\MyString.h(38,8): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+E:\IT\Step\Class_Work\С++\String\String\MyString.h(38,29): error C2473: operator <<: выглядит как определение функции, но без списка параметров.
+E:\IT\Step\Class_Work\С++\String\String\MyString.h(38,29): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+E:\IT\Step\Class_Work\С++\String\String\MyString.h(38,31): error C2065: out1: необъявленный идентификатор
+E:\IT\Step\Class_Work\С++\String\String\MyString.h(38,45): error C2275: itstep::String: недопустимое использование этого типа в качестве выражения
+E:\IT\Step\Class_Work\С++\String\String\MyString.h(38): message : см. объявление "itstep::String"
+E:\IT\Step\Class_Work\С++\String\String\MyString.h(38,52): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "p"
+E:\IT\Step\Class_Work\С++\String\String\Source.cpp(12,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+E:\IT\Step\Class_Work\С++\String\String\Source.cpp(16,14): error C2872: <<: неоднозначный символ
+E:\IT\Step\Class_Work\С++\String\String\MyString.h(38,10): message : может быть "int &<<"
+E:\IT\Step\Class_Work\С++\String\String\Source.cpp(16,14): message : или       "<<"
+E:\IT\Step\Class_Work\С++\String\String\Source.cpp(16,14): fatal error C1903: не удается восстановить после предыдущих ошибок; остановка компиляции
+  String.cpp
+E:\IT\Step\Class_Work\С++\String\String\MyString.h(38,8): error C2143: синтаксическая ошибка: отсутствие ";" перед "&"
+E:\IT\Step\Class_Work\С++\String\String\MyString.h(38,8): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+E:\IT\Step\Class_Work\С++\String\String\MyString.h(38,29): error C2473: operator <<: выглядит как определение функции, но без списка параметров.
+E:\IT\Step\Class_Work\С++\String\String\MyString.h(38,29): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+E:\IT\Step\Class_Work\С++\String\String\MyString.h(38,31): error C2065: out1: необъявленный идентификатор
+E:\IT\Step\Class_Work\С++\String\String\MyString.h(38,45): error C2275: itstep::String: недопустимое использование этого типа в качестве выражения
+E:\IT\Step\Class_Work\С++\String\String\MyString.h(38): message : см. объявление "itstep::String"
+E:\IT\Step\Class_Work\С++\String\String\MyString.h(38,52): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "p"
+E:\IT\Step\Class_Work\С++\String\String\String.cpp(19,23): warning C4018: <: несоответствие типов со знаком и без знака
+E:\IT\Step\Class_Work\С++\String\String\String.cpp(56,23): warning C4018: <: несоответствие типов со знаком и без знака
+E:\IT\Step\Class_Work\С++\String\String\String.cpp(76,23): warning C4018: <: несоответствие типов со знаком и без знака
+E:\IT\Step\Class_Work\С++\String\String\String.cpp(122,14): error C2872: <<: неоднозначный символ
+E:\IT\Step\Class_Work\С++\String\String\MyString.h(38,10): message : может быть "int &<<"
+E:\IT\Step\Class_Work\С++\String\String\String.cpp(122,14): message : или       "<<"
+E:\IT\Step\Class_Work\С++\String\String\String.cpp(122,14): fatal error C1903: не удается восстановить после предыдущих ошибок; остановка компиляции
+  Создание кода...

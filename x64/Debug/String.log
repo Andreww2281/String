@@ -1,0 +1,11 @@
+﻿  String.cpp
+E:\IT\Step\Class_Work\полезности С++\String\String\MyString.h(71,1): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+E:\IT\Step\Class_Work\полезности С++\String\String\MyString.h(159,1): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+E:\IT\Step\Class_Work\полезности С++\String\String\String.cpp(259,20): warning C4018: <: несоответствие типов со знаком и без знака
+E:\IT\Step\Class_Work\полезности С++\String\String\String.cpp(274,20): warning C4018: <: несоответствие типов со знаком и без знака
+E:\IT\Step\Class_Work\полезности С++\String\String\String.cpp(285,20): warning C4018: <: несоответствие типов со знаком и без знака
+E:\IT\Step\Class_Work\полезности С++\String\String\String.cpp(439,20): warning C4018: <: несоответствие типов со знаком и без знака
+E:\IT\Step\Class_Work\полезности С++\String\String\String.cpp(526,36): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+E:\IT\Step\Class_Work\полезности С++\String\String\String.cpp(590): warning C4172: возвращение адреса локальной или временной переменной : result
+E:\IT\Step\Class_Work\полезности С++\String\String\MyString.h(16): warning C4715: String::operator[]: значение возвращается не при всех путях выполнения
+  String.vcxproj -> E:\IT\Step\Class_Work\полезности С++\String\String\x64\Debug\String.exe
